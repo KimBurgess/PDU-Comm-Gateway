@@ -87,6 +87,3 @@ The counter can be set at any time by sending
 `energy 7 60.0;` would indicate that circuit 7 had used 60.0W-hr's of energy, or 0.06kWh's.
 
 `power-factor 2 -0.04;` would indicate that circuit 2's current power factor was -0.04 denoting a capacitive load.
-
-# Feedback / Abuse / Comments
-If you want to know more, play further or access some of the other functionality shoot an email to [kim.burgess@amxaustralia.com.au](mailto:kim.burgess@amxaustralia.com.au).
