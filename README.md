@@ -15,7 +15,7 @@ A whitespace is either a space (ascii 32), a tab (ascii 9) or a newline (ascii 1
 A semicolon (ascii 59) is mandatory to terminate (and send) a message. A newline is just treated as whitespace and not needed for message termination.
 
 # Connection
-An identical API is present on serial interface 1 of the control system and port 1234 of the network interface.
+An identical API is present on serial interface 1 (Baud 9600,N,8,1) of the control system and port 1234 of the network interface.
 
 ## Authentication
 There is none. Hack away.
