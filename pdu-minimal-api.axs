@@ -1,7 +1,7 @@
 /**
  * This is a minimal API designed to allow quick hacking with the PDU.
  *
- * NOT FOR USE IN A PRODUCTIOn ENVIRONMENT.
+ * NOT FOR USE IN A PRODUCTION ENVIRONMENT.
  */
 PROGRAM_NAME='main'
 
